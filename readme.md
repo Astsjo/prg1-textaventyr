@@ -20,12 +20,22 @@ Uppgiften är av programmeringskaraktär, men du behöver också göra planering
 
 ## Vad berättelsen handlar om
 
-En eller två meningar.
+Spelaren vaknar i skäpp, system inte funkar, måste hitta sätt att få igång syret innan det tar slut.
 
 ## Vägvalen
 
-Vilka val spelaren gör, och vart de leder.
+I början kan de resa sig upp eller ligga kvar. Om de ligger kvar förlorar de tid och mer ysre försvinner sen får de samma val igen.
+När de reser sig upp finns en dörr de inte kan öppna vid försök. Om de kollar omkring kan de hitta ett kort som öppnar dörren.
+När dörren är öppnad möts de av en korridor. Går de till höger möts de av en till dörr men kortet de har är för låg nivå. Till vänster kan de hitta ett bättre kort och en dörr. Bryter de upp den trasiga dörren, som tar två försök, hittar de en ännu bättre kort där inne.
+När de återvänder till dörren i korridoren kan de öppna den. Bakom ligger navigations/kaptensrummet. Det går inte att använda systemet med nivån av kort de har.
+I rummet finns det en dörr. Där inne ligger det sista kortet som kan användas för att låsa upp systemet, men du behöver kortet från dörren man behövde bryta upp för att komma in.
+När de har det kortet kan de låsa upp systemet ock fixa allt.
+De förlorar när det är för lite syre.
 
 ## Det som var svårast
 
+Det var ingenting som var särskilt svårt i säg. Det är bara tidskrävande eftersom det är if efter if-sats och en massa text. Mer berättelse/skrivande än kod, mer svenska än programmering.
+
 ## Om jag hade mer tid
+
+Hade mer tid än nödvändigt igentligen.

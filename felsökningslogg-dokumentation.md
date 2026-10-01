@@ -9,6 +9,10 @@ Jag har inte felsökt eller testat koden än eftersom jag fick tillåtelse att l
 
 3. Syre-variabeln
 
+>[1/10-26]
+
+> 4. Genom att testa att köra koden så var det: En typo (random.int istället för random.randint) och att, eftersom som sagt den inte var färdig, så behövde det läggas dit en elif (som var där innan jag tog bort det igen, det var det det stora kopierade kodblocket var. Kopierade bara tillbaka den och ändrade en variabel så fungerade den.)
+
 
 **Varför:**
 1. Om en användare inte använder den bokstav/ord som förväntas kommer inte if/elif att fungera.
@@ -33,5 +37,7 @@ Jag har inte felsökt eller testat koden än eftersom jag fick tillåtelse att l
 
 3. Inte så mycket att säga om den här.
 
+___
+~~En del av den är kopierad från en tidigare del och ser rörig ut och är inte färdig alls. Tror det börjar vid ca rad 190~~~
 
-# *En del av den är kopierad från en tidigare del och ser rörig ut och är inte färdig alls. Tror det börjar vid ca rad 190*
+Fixad.

@@ -20,3 +20,7 @@ Spelaren står framför den låsta räddningskapseln.
 Kodkolla (If-sats baserad på tidigare val):
 Om has_keycard == True: Kapseln låses upp, spelaren skjuts ut i rymden och överlever! (VINST)
 Om has_keycard == False: Dörren är låst, syret tar slut. (GAME OVER)
+
+___
+
+Medan jag arbetat har jag böjt av från berättelsen AI:n hittade på, men jag har använt den som grund, vilket är varför den inte passar äventyret helt och hållet.
